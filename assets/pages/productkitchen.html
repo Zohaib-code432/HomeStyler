@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>HomeStyler - Kitchen</title>
+        <link
+          rel="stylesheet"
+          href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css?ver=6.1"
+        />
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+          crossorigin="anonymous"
+        />
+        <link
+          rel="stylesheet"
+          type="text/css"
+          href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"
+        />
+        <link rel="stylesheet" href="../css/style.css" />
+        <link rel="stylesheet" href="../css/responsive.css" />
+      </head>
+<body>
+
+  <header class="header">
+    <div class="container">
+      <div class="align-items-center row">
+        <div class="col-md-3">
+          <div class="header-logo">
+            <a href=""><img src="../images/header-logo.png" alt="" /></a>
+          </div>
+        </div>
+        <div class="col-md-9 d-lg-block d-none">
+          <div class="justify-content-end navbar">
+            <nav>
+              <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="assets/pages/about-us.html">About Us</a></li>
+                <li>
+                  <a href="assets/pages/products.html"
+                    >Products <i class="far fa-angle-down"></i
+                  ></a>
+                  <ul class="sub-menu">
+                    <li><a href="assets/pages/products.html">Furniture</a><i class="far fa-angle-right"></i>
+                    <ul class="inner-sub-menu">
+                      <li><a href="">Sofas and Couches</a></li>
+                      <li><a href="">Chairs and Recliners</a></li>
+                      <li><a href="">Tables</a></li>
+                      <li><a href="">Beds and Mattresses</a></li>
+                      <li><a href="">Storage</a></li>
+                    </ul>
+                    </li>
+                    <li><a href="assets/pages/products.html">Lighting</a><i class="far fa-angle-right"></i>
+                      <ul class="inner-sub-menu">
+                        <li><a href="">Ceiling Lights</a></li>
+                        <li><a href="">Wall Lights</a></li>
+                        <li><a href="">Floor Lamps</a></li>
+                        <li><a href="">Table Lamps</a></li>
+                        <li><a href="">Outdoor Lighting</a></li>
+                      </ul>
+                    </li>
+                    <li><a href="assets/pages/products.html">Decor</a><i class="far fa-angle-right"></i>
+                      <ul class="inner-sub-menu">
+                        <li><a href="">Rugs and Carpets</a></li>
+                        <li><a href="">Curtains and Blinds</a></li>
+                        <li><a href="">Wall Art and Mirrors</a></li>
+                        <li><a href="">Cushions and Throws</a></li>
+                        <li><a href="">Vases and Plant Pots</a></li>
+                      </ul>
+                    </li>
+                    <li><a href="assets/pages/products.html">Kitchen</a><i class="far fa-angle-right"></i>
+                      <ul class="inner-sub-menu">
+                        <li><a href="">Cabinets and Pantries</a></li>
+                        <li><a href="">Countertops</a></li>
+                        <li><a href="">Sinks and Faucets</a></li>
+                        <li><a href="">Kitchen Islands and Carts</a></li>
+                        <li><a href="">Backsplashes</a></li>
+                      </ul>
+                    </li>
+                    <li><a href="assets/pages/products.html">Bathroom</a><i class="far fa-angle-right"></i>
+                      <ul class="inner-sub-menu">
+                        <li><a href="">Vanities and Cabinets</a></li>
+                        <li><a href="">Showers and Bathtubs</a></li>
+                        <li><a href="">Toilets and Bidets</a></li>
+                        <li><a href="">Bathroom Sinks</a></li>
+                        <li><a href="">Mirrors and Medicine Cabinets</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <a href="assets/pages/interiordesigns.html"
+                    >Interior Designs <i class="far fa-angle-down"></i
+                  ></a>
+                  <ul class="sub-menu">
+                    <li><a href="assets/pages/LivingRoom.html">Living room</a></li>
+                    <li><a href="assets/pages/kitchen.html">Kitchen</a></li>
+                    <li><a href="assets/pages/bedroom.html">Bedroom</a></li>
+                    <li><a href="assets/pages/bathroom.html">Bathroom</a></li>
+                    <li><a href="assets/pages/contemporarystyles.html">Contemporary styles</a></li>
+                    <li><a href="assets/pages/elegantlook.html">Elegant look</a></li>
+                  </ul>
+                </li>
+                <li>
+                  <a href="assets/pages/interiorsdesigners.html"
+                    >Interior Designers</a
+                  >
+                </li>
+                <li><a href="assets/pages/contact-us.html">Contact Us</a></li>
+                <li><a href="">FeedBack</a></li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="hamburger d-lg-none">
+      <i class="far fa-bars"></i>
+    </div>
+    <div class="mobile-menu d-lg-none">
+      <div class="header-logo">
+        <a href=""><img src="assets/images/header-logo.png" alt="" /></a>
+      </div>
+      <div class="navbar">
+        <nav>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="assets/pages/about-us.html">About Us</a></li>
+            <li>
+              <a href="assets/pages/products.html"
+                >Products</a>
+                <span id="sub-menu-drop" class="arrow-down"><i class="far fa-angle-down"></i></span>
+              <ul class="sub-menu sub-menu1">
+                <li><a href="assets/pages/products.html">Furniture</a><span id="inner-menu-drop" class="arrow-down"><i class="far fa-angle-down"></i></span>
+                <ul class="inner-sub-menu">
+                  <li><a href="">Sofas and Couches</a></li>
+                  <li><a href="">Chairs and Recliners</a></li>
+                  <li><a href="">Tables</a></li>
+                  <li><a href="">Beds and Mattresses</a></li>
+                  <li><a href="">Storage</a></li>
+                </ul>
+                </li>
+                <li><a href="assets/pages/products.html">Lighting</a><span id="inner-menu-drop2" class="arrow-down"><i class="far fa-angle-down"></i></span>
+                  <ul class="inner-sub-menu inner-sub-menu2">
+                    <li><a href="">Ceiling Lights</a></li>
+                    <li><a href="">Wall Lights</a></li>
+                    <li><a href="">Floor Lamps</a></li>
+                    <li><a href="">Table Lamps</a></li>
+                    <li><a href="">Outdoor Lighting</a></li>
+                  </ul>
+                </li>
+                <li><a href="assets/pages/products.html">Decor</a><span id="inner-menu-drop3" class="arrow-down"><i class="far fa-angle-down"></i></span>
+                  <ul class="inner-sub-menu inner-sub-menu3">
+                    <li><a href="">Rugs and Carpets</a></li>
+                    <li><a href="">Curtains and Blinds</a></li>
+                    <li><a href="">Wall Art and Mirrors</a></li>
+                    <li><a href="">Cushions and Throws</a></li>
+                    <li><a href="">Vases and Plant Pots</a></li>
+                  </ul>
+                </li>
+                <li><a href="assets/pages/products.html">Kitchen</a><span id="inner-menu-drop4" class="arrow-down"><i class="far fa-angle-down"></i></span>
+                  <ul class="inner-sub-menu inner-sub-menu4">
+                    <li><a href="">Cabinets and Pantries</a></li>
+                    <li><a href="">Countertops</a></li>
+                    <li><a href="">Sinks and Faucets</a></li>
+                    <li><a href="">Kitchen Islands and Carts</a></li>
+                    <li><a href="">Backsplashes</a></li>
+                  </ul>
+                </li>
+                <li><a href="assets/pages/products.html">Bathroom</a><span id="inner-menu-drop5" class="arrow-down"><i class="far fa-angle-down"></i></span>
+                  <ul class="inner-sub-menu inner-sub-menu5">
+                    <li><a href="">Vanities and Cabinets</a></li>
+                    <li><a href="">Showers and Bathtubs</a></li>
+                    <li><a href="">Toilets and Bidets</a></li>
+                    <li><a href="">Bathroom Sinks</a></li>
+                    <li><a href="">Mirrors and Medicine Cabinets</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="assets/pages/interiordesigns.html"
+                >Interior Designs</a><span id="sub-menu-drop-2" class="arrow-down"><i class="far fa-angle-down"></i></span>
+              <ul class="sub-menu sub-menu-2">
+                <li><a href="assets/pages/LivingRoom.html">Living room</a></li>
+                <li><a href="assets/pages/kitchen.html">Kitchen</a></li>
+                <li><a href="assets/pages/bedroom.html">Bedroom</a></li>
+                <li><a href="assets/pages/bathroom.html">Bathroom</a></li>
+                <li><a href="assets/pages/contemporarystyles.html">Contemporary styles</a></li>
+                <li><a href="assets/pages/elegantlook.html">Elegant look</a></li>
+              </ul>
+            </li>
+            <li>
+              <a href="assets/pages/interiorsdesigners.html"
+                >Interior Designers</a
+              >
+            </li>
+            <li><a href="assets/pages/contact-us.html">Contact Us</a></li>
+            <li><a href="">FeedBack</a></li>
+          </ul>
+        </nav>
+      </div>
+      <div class="Close-menu">
+        <i class="fal fa-times"></i>
+      </div>
+    </div>
+  </header>
+
+
+       <!-- Inner Banner -->
+
+ <section class="Inner-banner Banner">
+    <div class="container">
+        <div class="align-items-center row">
+            <div class="col-md-6">
+              <div class="h-banner-content Box-content aos-init aos-animate" data-aos="fade-right" data-aos-duration="2000">
+                <h3>Our Passion for Excellence</h3>
+                <h1>Kitchen</h1>
+              </div>
+            </div>  
+            <div class="col-md-6 d-none d-md-block">
+              <div class="h-banner-img aos-init aos-animate" data-aos="fade-left" data-aos-duration="2000">
+                  <img src="../images/Countertops.webp" alt="">
+              </div>
+            </div>
+          </div>
+    </div>
+</section>
+
+<section class="Inner-Product-sec spacer">
+    <div class="container">
+        <div class="Section-title">
+            <h2>Sub Categories</h2>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-md-4 mb-5">
+                <div class="Interiors-designers-box">
+                    <div class="Interiors-designers-box-im">
+                        <img src="../images/ca.jpg" alt="">
+                    </div>
+                    <h2>Cabinets and Pantries</h2>
+                    <p>Cabinets and pantries are vital for organizing kitchen essentials, providing storage for food, cookware, and appliances. Together, they enhance both functionality and aesthetics, streamlining meal preparation.</p>
+                    <div class="primary-btn">
+                        <a href="KellyWearstler.html">View More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-5">
+                <div class="Interiors-designers-box">
+                    <div class="Interiors-designers-box-im">
+                        <img src="../images/Countertops.webp" alt="">
+                    </div>
+                    <h2>Countertops</h2>
+                    <p>Countertops serve as the primary workspace in kitchens and bathrooms, offering a durable surface for food preparation, cooking, and other tasks. Available in various materials like granite, quartz, and laminate, they combine functionality with style, enhancing the overall design of the space.</p>
+                    <div class="primary-btn">
+                        <a href="PeterMarino.html">View More</a>
+                    </div>
+                </div>
+            </div> 
+            <div class="col-md-4 mb-5">
+                <div class="Interiors-designers-box">
+                    <div class="Interiors-designers-box-im">
+
+                        <img src="../images/Sinks and Faucets.jpg" alt="">
+                    </div>
+                    
+                    <h2>Sinks and Faucets</h2>
+                    <p>Sinks and faucets are essential fixtures in kitchens and bathrooms, providing convenient access to water for cooking, cleaning, and personal hygiene. Available in various styles and finishes, they enhance functionality and aesthetics, making them key elements in any home design.</p>
+                    <div class="primary-btn">
+                        <a href="Nate Berkus.html">View More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-5">
+                <div class="Interiors-designers-box">
+                    <div class="Interiors-designers-box-im">
+                        <img src="../images/Kitchen Islands and Carts.webp" alt="">
+                    </div>
+                    
+                    <h2>Kitchen Islands and Carts</h2>
+                    <p>Kitchen islands and carts are versatile additions that provide extra workspace, storage, and seating in the kitchen. Islands often serve as a central hub for meal prep and socializing, while carts offer mobility and can be used for serving or additional storage, enhancing both functionality and style.</p>
+                    <div class="primary-btn">
+                        <a href="India Mahdavi.html">View More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-5">
+                <div class="Interiors-designers-box">
+                    <div class="Interiors-designers-box-im">
+                        <img src="../images/Backsplashes.webp" alt="">
+                    </div>
+                    
+                    <h2>Backsplashes</h2>
+                    <p>Backsplashes are protective surfaces installed behind sinks and stovetops, designed to prevent water and food splatters from damaging walls. They also add visual interest and style to kitchens and bathrooms, available in various materials, colors, and patterns to complement any decor.</p>
+                    <div class="primary-btn">
+                        <a href="Kelly Hoppen.html">View More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+    <!-- Footer -->
+
+    <footer class="footer">
+      <div class="container">
+        <div class="Footer-top-main">
+          <div class="align-items-center row">
+            <div class="col-lg-5 col-md-4">
+              <div class="Footer-logo">
+                <a href="../../index.html"
+                  ><img
+                    src="../images/Gold__Black_Home_Icon_Real_Estate_Logo__1___3_-removebg-preview.png"
+                    alt=""
+                /></a>
+              </div>
+            </div>
+            <div class="col-lg-7 col-md-8">
+              <div class="Footer-box">
+                <div class="Footer-nav">
+                  <nav>
+                    <div >
+                      <ul  class="menu">
+                        <li>
+                          <a
+                            href="../../index.html"
+                            >Home</a
+                          >
+                        </li>
+                        <li>
+                          <a href="../pages/about-us.html"
+                            >About Us</a
+                          >
+                        </li>
+                        </li>
+                        <li>
+                          <a
+                            href="../pages/contact-us.html"
+                            >Contact Us</a
+                          >
+                        </li>
+                        <li><a href="../pages/feedback.html">FeadBack</a></li>
+                        <li><a href="../pages/SiteMap.html">SiteMap</a></li>
+                      </ul>
+                    </div>
+                  </nav>
+                </div>
+
+                <div class="Footer-links">
+                  <ul>
+                    <li>
+                      <a href=""><i class="fab fa-instagram"></i></a>
+                    </li>
+                    <li>
+                      <a href=""><i class="fab fa-facebook-f"></i></a>
+                    </li>
+                    <li>
+                      <a href=""><i class="fab fa-github"></i></a>
+                    </li>
+                    <li>
+                      <a href=""><i class="fab fa-telegram-plane"></i></a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+      <div class="Footer-bottom">
+        <div class="container">
+          <div class="Footer-bottom-main">
+            <div class="copy-right">
+              <h5>All Rights Reserverd</h5>
+            </div>
+            <div class="Footer-bottom-links">
+              <ul>
+                <li><a href="">Privacy Policy</a></li>
+                <li><a href="">Terms and Conditions</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <script
+        src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+        integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+        crossorigin="anonymous"
+        referrerpolicy="no-referrer"
+      ></script>
+      <script
+        type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"
+      ></script>
+      <script
+        src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"
+      ></script>
+      <script src="../js/theme.js"></script>
+</body>
+</html>

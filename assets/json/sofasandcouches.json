@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Modern Minimalism",
+        "description": "This sleek, low-profile sofa features clean lines and a neutral palette, perfect for contemporary living spaces where simplicity meets style.",
+        "price": "$1000",
+        "image": "../images/Modern Minimalism.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Classic Comfort",
+        "description": "Upholstered in rich fabric with tufted detailing, this elegant couch blends traditional charm with plush seating, making it a cozy focal point for any room.",
+        "price": "$1200",
+        "image": "../images/Classic Comfort.jfif"
+    },
+    {
+        "id": 3,
+        "title": "Chic Sectional",
+        "description": "This versatile sectional offers ample seating and can be rearranged to fit various layouts, ideal for entertaining or family gatherings in open-concept spaces.",
+        "price": "$1500",
+        "image": "../images/Chic Sectional.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Bold Statement:",
+        "description": "With its vibrant color and unique pattern, this eye-catching sofa serves as a bold accent piece, adding personality and flair to any living area.",
+        "price": "$1300",
+        "image": "../images/Bold Statement.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Cozy Nook",
+        "description": "Designed for ultimate comfort, this oversized couch features deep cushions and soft fabrics, creating a perfect spot for relaxation and casual gatherings.",
+        "price": "$1800",
+        "image": "../images/Cozy Nook.png"
+    },
+    {
+        "id": 6,
+        "title": "Eco-Friendly Design",
+        "description": " Made from sustainable materials, this stylish sofa combines eco-conscious choices with modern design, proving that comfort and environmental responsibility can coexist.",
+        "price": "$1100",
+        "image": "../images/Eco-Friendly Design.jpg"
+    }
+]

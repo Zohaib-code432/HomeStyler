@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Serene Sanctuary",
+        "image": "../images/Serene Sanctuary.jpg",
+        "description": "This tranquil bedroom features soft, muted tones and plush bedding, creating the perfect retreat for rest and relaxation.",
+        "price": "$1100",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    },
+    {
+        "id": 2,
+        "title": "Modern Luxe",
+        "image": "../images/Modern Luxe.jpg",
+        "description": "A blend of sleek lines and contemporary decor defines this stylish bedroom, offering a chic atmosphere that exudes sophistication.",
+        "price": "$1000",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    },
+    {
+        "id": 3,
+        "title": "Cozy Cottage Vibes",
+        "image": "../images/Cozy Cottage Vibes.jpg",
+        "description": "With rustic elements and warm textures, this bedroom invites a sense of comfort and charm, making it feel like a homey getaway.",
+        "price": "$1300",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    },
+    {
+        "id": 4,
+        "title": "Bold and Bright",
+        "image": "../images/Bold and Bright.jpeg",
+        "description": "This vibrant bedroom showcases a playful color palette and eye-catching art, infusing energy and personality into the space.",
+        "price": "$1500",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+        
+    },
+    {
+        "id": 5,
+        "title": "Timeless Elegance",
+        "image": "../images/Timeless Elegance.jpg",
+        "description": "Classic furnishings and soft lighting create a sophisticated ambiance in this bedroom, making it an ideal space for relaxation and reflection.",
+        "price": "$1600",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    },
+    {
+        "id": 6,
+        "title": "Nature-Inspired Retreat",
+        "image": "../images/Nature-Inspired Retreat.jpg",
+        "description": "Featuring earthy tones and natural materials, this bedroom brings the outdoors in, creating a refreshing and calming environment.",
+        "price": "$1200",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    }
+    
+]

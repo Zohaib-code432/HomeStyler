@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "title": "Modern Elegance",
+        "description": "This living room blends clean lines with luxurious textures, featuring sleek furniture and soft, neutral tones for a timeless, modern look.",
+        "price": "$1200",
+        "image": "../images/Modern-Elegance-img.jpg",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    },
+    {
+        "id": 2,
+        "title": "Cozy Comfort",
+        "description": "A warm, inviting space with plush seating, layered rugs, and ambient lighting—perfect for relaxation.",
+        "price": "$1000",
+        "image": "../images/Cozy Comfort.jpg",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    },
+    {
+        "id": 3,
+        "title": "Minimalist Serenity",
+        "description": "With a focus on simplicity and function, this room offers a calming atmosphere with a neutral palette and uncluttered design.",
+        "price": "$1100",
+        "image": "../images/Minimalist Serenity.jpg",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    },
+    {
+        "id": 4,
+        "title": "Mid-Century Modern",
+        "description": "Featuring iconic furniture designs and retro-inspired decor, this living room exudes classic mid-century modern style with a fresh, contemporary twist.",
+        "price": "$1600",
+        "image": "../images/Mid-Century Modern.jpg",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    },
+    {
+        "id": 5,
+        "title": "Luxurious Retreat",
+        "description": "High-end materials, rich textures, and elegant furniture create a sophisticated living room that offers both comfort and style for the ultimate retreat.",
+        "price": "$1200",
+        "image": "../images/Luxurious Retreat.jpg",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    },
+    {
+        "id": 6,
+        "title": "Eclectic Charm",
+        "description": "A mix of patterns, vibrant colors, and unique decor pieces brings personality and energy to this living room, creating a playful, artistic vibe.",
+        "price": "$1200",
+        "image": "../images/Eclectic Charm.jpg",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp", "xyz"]
+    }
+    
+]

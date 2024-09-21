@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Modern Minimalism",
+        "description": "This sleek living room embodies modern minimalism, featuring clean lines and a neutral color palette that creates a serene atmosphere.",
+        "price": "$1200",
+        "image": "../images/Modern Minimalism......jpg"
+    },
+    {
+        "id": 2,
+        "title": "Cozy Rustic Retreat",
+        "description": "Embrace warmth and charm with this cozy rustic retreat, showcasing natural materials and earthy tones that invite relaxation.",
+        "price": "$1400",
+        "image": "../images/Cozy Rustic Retreat.jpeg"
+    },
+    {
+        "id": 3,
+        "title": "Chic Urban Loft",
+        "description": "This chic urban loft blends industrial elements with contemporary decor, offering a stylish and vibrant space perfect for city living.",
+        "price": "$1100",
+        "image": "../images/Chic Urban Loft.jpeg"
+    },
+    {
+        "id": 4,
+        "title": " Elegant Dining Area",
+        "description": "Elevate your dining experience in this elegant area, where sophisticated furnishings and ambient lighting create the perfect backdrop for gatherings.",
+        "price": "$1300",
+        "image": "../images/Elegant Dining Area.jpeg"
+    },
+    {
+        "id": 5,
+        "title": "Bright and Airy Bedroom",
+        "description": "Experience tranquility in this bright and airy bedroom, featuring soft colors and natural light that enhance the peaceful vibe.",
+        "price": "$1800",
+        "image": "../images/Bright and Airy Bedroom.jpeg"
+    },
+    {
+        "id": 6,
+        "title": "Vibrant Home Office",
+        "description": " Inspire creativity in this vibrant home office, with bold colors and functional design that make working from home a joy.",
+        "price": "$1100",
+        "image": "../images/Vibrant Home Office.jpeg"
+    }
+]

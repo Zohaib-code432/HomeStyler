@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "title": "Ambient Glow",
+        "description": "This sleek living room embodies modern minimalism, featuring clean lines and a neutral color palette that creates a serene atmosphere.",
+        "price": "$1200",
+        "image": "../images/51pbEseIQFL._AC_US750_.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Modern Elegance",
+        "description": "Embrace warmth and charm with this cozy rustic retreat, showcasing natural materials and earthy tones that invite relaxation.",
+        "price": "$1400",
+        "image": "../images/Helestra_Sona_Deckenleuchte_LED--4e68b553410d0e93fde7a40a3f8a6e4b.webp"
+    },
+    {
+        "id": 3,
+        "title": "Classic Chandeliers",
+        "description": "This chic urban loft blends industrial elements with contemporary decor, offering a stylish and vibrant space perfect for city living.",
+        "price": "$1100",
+        "image": "../images/61+O2PXdRHL._AC_SL1100_.jpg"
+    },
+    {
+        "id": 4,
+        "title": " Sleek Spotlights",
+        "description": "Elevate your dining experience in this elegant area, where sophisticated furnishings and ambient lighting create the perfect backdrop for gatherings.",
+        "price": "$1300",
+        "image": "../images/Elegant Dining Area.jpeg"
+    }
+    
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Minimalist Elegance",
+        "image": "../images/Minimalist Elegance.jpg",
+        "description": "This living space showcases a perfect blend of simplicity and sophistication. Clean lines, neutral tones, and carefully curated decor create an inviting atmosphere that emphasizes comfort and style.",
+        "price": "$1100",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    },
+    {
+        "id": 2,
+        "title": "Bold Accents",
+        "image": "../images/Bold Accents.jpg",
+        "description": "A striking interplay of color and texture defines this contemporary dining area. The vibrant artwork and unique furnishings add a playful touch, while the open layout promotes a sense of spaciousness.",
+        "price": "$1000",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    },
+    {
+        "id": 3,
+        "title": "Natural Harmony",
+        "image": "../images/Natural Harmony.jpg",
+        "description": " Featuring large windows and organic materials, this room embodies a seamless connection with nature. The use of wood and stone elements, combined with soft furnishings, brings warmth and tranquility indoors.",
+        "price": "$1300",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    },
+    {
+        "id": 4,
+        "title": "Functional Modernity",
+        "image": "../images/Functional Modernity.jpg",
+        "description": "This kitchen exemplifies contemporary design with its sleek cabinetry and high-end appliances. The functional layout enhances efficiency while maintaining a chic aesthetic, making it a culinary haven.",
+        "price": "$1400",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+        
+    },
+    {
+        "id": 5,
+        "title": "Serene Retreat",
+        "image": "../images/Serene Retreat.jpg",
+        "description": "A contemporary bedroom that prioritizes relaxation, this space uses a soft color palette and layered textiles. The minimalist decor and ambient lighting create a serene retreat, perfect for unwinding after a long day.",
+        "price": "$900",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    },
+    {
+        "id": 6,
+        "title": "Stylish Workspaces",
+        "image": "../images/Stylish Workspaces.jpeg",
+        "description": "This home office combines functionality with modern design. Thoughtful organization and stylish furniture create an inspiring environment, ideal for productivity and creativity in a sleek, uncluttered setting.",
+        "price": "$1400",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    }
+    
+]

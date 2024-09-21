@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "title": "Sleek Centerpieces",
+        "description": "This sleek living room embodies modern minimalism, featuring clean lines and a neutral color palette that creates a serene atmosphere.",
+        "price": "$1200",
+        "image": "../images/JUDY-Wooden-Table-Lamp-4.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Vintage Charm",
+        "description": "Embrace warmth and charm with this cozy rustic retreat, showcasing natural materials and earthy tones that invite relaxation.",
+        "price": "$1400",
+        "image": "../images/noir-glossy-black-metal-bedside-table-lamp-ankur-lighting-1.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Artistic Illuminators",
+        "description": "This chic urban loft blends industrial elements with contemporary decor, offering a stylish and vibrant space perfect for city living.",
+        "price": "$1100",
+        "image": "../images/The-Benefits-of-Using-Table-Lamps-in-Your-Home-Decor-07.jpg"
+    },
+    {
+        "id": 4,
+        "title": " Mood-Enhancing Designs",
+        "description": "Elevate your dining experience in this elegant area, where sophisticated furnishings and ambient lighting create the perfect backdrop for gatherings.",
+        "price": "$1300",
+        "image": "../images/Beautiful-Table-Lamp.jpg"
+    }
+    
+]

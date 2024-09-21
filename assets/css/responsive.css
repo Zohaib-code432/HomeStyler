@@ -1,0 +1,368 @@
+/*for-large-dekstop view-2560*/
+
+@media only screen and (min-width: 2560px) {
+	
+}
+
+/*for-large-dekstop view-1200*/
+
+@media only screen and (min-width: 100px) and (max-width: 1399px) {
+    .navbar nav ul {
+        display: flex;
+        gap: 30px;
+    }
+    .navbar nav ul li::before {
+        right: -15px;
+    }
+	
+}
+
+/*for-laptop view-1024*/
+
+@media only screen and (min-width: 100px) and (max-width: 1199px) {
+	h1 {
+    font-size: 60px;
+	}
+	h2 {
+    font-size: 50px;
+	}
+	.Categ-main-row {
+    grid-template-rows: repeat(4, 120px);
+	}
+	.Categ-box-content h4 {
+    font-size: 20px;
+	}
+	.Categ-box-content h5 {
+    font-size: 14px;
+	}
+	.Categ-box-content a i {
+    font-size: 16px;
+    width: 35px;
+    height: 35px;
+	}
+    .navbar nav ul {
+        display: flex;
+        gap: 22px;
+    }
+    .navbar nav ul li::before {
+        right: -10px;
+    }
+    .navbar nav ul li a {
+        font-size: 14px;
+    }
+	.Categ-box-content {
+    padding: 0px 10px;
+	}
+	.Categ-1st-row .Categ-box-img img {
+    height: 250px;
+	}
+	.Categ-2nd-row .Categ-box-img img {
+    height: 250px;
+	}
+	.Section-title p {
+	    padding: 0px 60px;
+	}
+	.CTA-main {
+    padding: 50px 0px;
+	}
+	.Testimonials-content p {
+    padding: 0px 100px;
+	}
+    .Footer-nav nav ul {
+        gap: 30px;
+    }
+    .Footer-nav nav ul li::before {
+        right: -15px;
+    }
+
+}
+
+/*for-tablet view-768*/
+
+@media only screen and (min-width: 100px) and (max-width: 991px) {
+	    h1 {
+        font-size: 48px;
+		margin-left:-12px;	
+    }
+    h2 {
+        font-size: 40px;
+		margin-left:-8px;
+    }
+    p {
+    font-size: 14px;
+    }
+    .primary-btn a {
+    font-size: 14px;
+    padding: 12px 30px;
+    }
+	.mobile-menu .navbar nav ul li {
+    padding: 12px 0px;
+	}
+    .spacer {
+    padding: 70px 0px 70px;
+    }
+    .Section-title {
+     margin-bottom: 60px;
+    }
+    .Categ-1st-row .Categ-box-img img {
+        height: 180px;
+    }
+    .Categ-box-content h4 {
+        font-size: 15px;
+    }
+    .Categ-box-content h5 {
+        font-size: 12px;
+    }
+    .Categ-box-content a i {
+        font-size: 14px;
+        width: 30px;
+        height: 30px;
+    }
+    .Categ-box-content a i:hover {
+    transform: translateX(5px);
+	}
+    .Categ-box-content {
+        padding: 0px 8px;
+	bottom: 15px;
+    }
+    .Categ-main-row {
+    grid-template-rows: repeat(4, 90px);
+	}
+    .Section-title p {
+        padding: 0px 40px;
+    }
+	    .Categ-2nd-row .Categ-box-img img {
+        height: 180px;
+    }
+	.Testimonials-content p {
+        padding: 0px 50px;
+    }
+	footer.footer::after {
+    width: 67%;
+	}
+	footer.footer::before {
+    width: 33%;
+	}
+	.Footer-logo img {
+    width: 100%;
+	}
+	.Footer-links ul li a {
+    font-size: 18px;
+	}
+	.Footer-links ul {
+    gap: 20px;
+	margin-top: 15px;
+	}
+    .Footer-nav nav ul {
+        gap: 20px;
+    }
+    .Footer-nav nav ul li::before {
+        right: -10px;
+    }
+	
+	.mobile-menu .navbar nav ul li .sub-menu li a {font-size: 17px;margin: 0px;}
+
+	.mobile-menu .navbar nav ul li .sub-menu li a::before {
+    display: none;
+	}
+
+	.mobile-menu .navbar nav ul li .sub-menu li {
+    padding: 0px;
+	}
+	.Testimonials-item {
+    height: 320px;
+	}
+/* 	.....About... */
+
+	.About-sec1 img {
+    height: 650px;
+	}
+/* 	....contact..... */
+
+	section.Contact-form {
+    padding-top: 70px;
+	}
+	
+}
+
+/*for-landscape_mobile view-576*/
+
+@media only screen and (min-width: 100px) and (max-width: 767px) {
+}
+
+/*for-mobile view-375*/
+
+@media only screen and (min-width: 100px) and (max-width: 575px) {
+	.header-logo a img {
+    width: 200px;
+	}
+	h1 {
+        font-size: 45px;
+		margin-left:-7px;
+    }
+	h2 {
+        font-size: 35px;
+    }
+	
+	.mobile-menu .navbar nav ul li a {
+    font-size: 18px;
+	}
+	
+    .Categ-1st-row .Categ-box-img img {
+        height: 200px;
+    }
+	.Categ-2nd-row .Categ-box-img img {
+        height: 200px;
+    }
+	.Section-title p {
+        padding: 0px;
+    }
+	.CTA-content {
+    text-align: center;
+	}
+	.CTA-content h2 {
+    font-size: 34px;
+	}
+	.CTA-main .primary-btn {
+    text-align: center;
+    margin-top: 30px;
+	}
+    .CTA-main {
+        padding: 0px;
+    }
+	
+	.Testimonials-content h4 {
+    font-size: 25px;
+	padding:0px 15px;	
+	}
+	.Testimonials-item {
+        height: 400px;
+    }
+    .Testimonials-content p {
+        padding: 0px 15px;
+    }
+	.copy-right h5 {
+    font-size: 14px;
+	}
+    .Categ-box-content {
+        padding: 0px 20px;
+        bottom: 20px;
+    }
+    .Categ-box-content h4 {
+        font-size: 22px;
+    }
+	.Categ-box-content h5 {
+        font-size: 14px;
+    }
+    .Categ-box-content a i {
+        font-size: 16px;
+        width: 35px;
+        height: 35px;
+    }
+	.Footer-top-main {
+    padding: 30px 0px 30px;
+	}
+    footer.footer::before {
+        height: 40%;
+		width:100%;
+    }
+    .banner-slider-main .slick-arrow, .tours-slider-main .slick-arrow{
+        display: none !important;
+        }
+        .banner-slider-item {
+            text-align: center;
+        }
+        .h-banner-content h3 {
+            font-size: 26px;
+        }
+        .banner-slider-content p {
+            padding: 0px;
+        }
+        .hamburger {
+            right: 20px;
+        }
+
+	.Categ-main-row {
+    display: block;
+	}
+
+	.Categ-box-img, .Categ-box-img img {
+    height: 240px;
+	}
+
+	.Categ-box {
+    margin-bottom: 20px;
+	}
+
+	.Footer-logo {
+    height: 150px;
+	display:flex;
+	justify-content:center;		
+	}
+
+	footer.footer::after {
+        width: 100%;
+        height: 60%;
+        top: unset;
+        bottom: 0px;
+    }
+	.Footer-nav nav ul li a {
+        font-size: 16px;
+		margin-bottom:10px;
+    }
+	.Footer-bottom-main {
+    display: block;
+    text-align: center;
+	}
+	.Footer-bottom-links ul {
+    justify-content: center;
+    margin-top: 10px;
+    gap: 20px;
+	}
+	.Footer-nav nav ul li::before {
+    display: none;
+	}
+	.Footer-bottom-links ul li a {
+    font-size: 14px;
+	}
+	    .Footer-logo img {
+        width: 220px;
+        margin: 0 auto;
+    }
+	.Footer-nav nav ul {
+        display: block;
+    }
+	.Footer-nav {
+    text-align: center;
+	}
+	.Footer-links ul {
+        justify-content: center;
+    }
+	.mobile-menu {
+    width: 100%;
+	}
+	
+	.Close-menu {
+    right: 20px;
+    top: 20px;
+	}
+/*   .........About....... */
+
+	.About-sec1 img {
+        height: 450px;
+    }
+/* 	.....contact...... */
+
+	 .Form-img img {
+        height: 360px;
+    }
+    section.Inner-banner {
+        height: 300px;
+    }
+
+}
+
+/*for-small_mobile view-320*/
+
+@media only screen and (min-width: 100px) and (max-width: 374px) {
+}

@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Elegant Armchair",
+        "description": "This sophisticated armchair features plush upholstery and graceful curves, making it an ideal accent piece for both style and comfort in any living space.",
+        "price": "$900",
+        "image": "../images/Elegant Armchair.jpeg"
+    },
+    {
+        "id": 2,
+        "title": "Contemporary Recliner",
+        "description": " With its sleek design and adjustable reclining feature, this modern recliner provides ultimate relaxation while seamlessly fitting into contemporary decor.",
+        "price": "$1200",
+        "image": "../images/Contemporary Recliner.jpeg"
+    },
+    {
+        "id": 3,
+        "title": "Vintage Inspired",
+        "description": " This charming, vintage-style chair boasts intricate detailing and rich fabrics, bringing a touch of nostalgia and character to any room.",
+        "price": "$1400",
+        "image": "../images/Vintage Inspired.webp"
+    },
+    {
+        "id": 4,
+        "title": "Space-Saving Solution",
+        "description": " Compact yet stylish, this folding chair is perfect for small spaces, offering practicality without sacrificing aesthetic appeal.",
+        "price": "$1700",
+        "image": "../images/Space-Saving Solution.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Lounge Chair with Ottoman",
+        "description": " This inviting lounge chair comes with a matching ottoman, creating a cozy reading nook where you can unwind and relax in style.",
+        "price": "$1100",
+        "image": "../images/Lounge Chair with Ottoman.jpg "
+    },
+    {
+        "id": 6,
+        "title": "ESwivel Recliner",
+        "description": " This versatile swivel recliner offers 360-degree rotation and plush cushioning, perfect for enjoying conversations or watching TV with ease.",
+        "price": "$1500",
+        "image": "../images/Swivel Recliner.jpg"
+    }
+]

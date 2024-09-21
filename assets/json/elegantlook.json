@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Timeless Sophistication",
+        "image": "../images/Timeless Sophistication.webp",
+        "description": "This living room features luxurious fabrics and refined furnishings, combining modern aesthetics with classic elegance. Soft lighting enhances the sophisticated ambiance, making it perfect for both relaxation and entertaining.",
+        "price": "$1000",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    },
+    {
+        "id": 2,
+        "title": "Chic Minimalism",
+        "image": "../images/Chic Minimalism.jpg",
+        "description": " An elegant approach to minimalism, this dining area showcases a beautiful balance of form and function. The striking geometric table and understated decor create a refined atmosphere, ideal for intimate gatherings.",
+        "price": "$1300",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    },
+    {
+        "id": 3,
+        "title": "Refined Nature",
+        "image": "../images/Refined Nature.avif",
+        "description": " A close-up of decor elements, such as delicate vases and tasteful artwork, highlights the beauty in simplicity. Each piece is thoughtfully chosen to enhance the overall elegance of the space.",
+        "price": "$1200",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    },
+    {
+        "id": 4,
+        "title": "Luminous Spaces",
+        "image": "../images/Luminous Spaces.jpeg",
+        "description": "Bright and airy, this entryway features large windows that flood the room with natural light. The elegant fixtures and minimalist decor set a welcoming tone for the home.",
+        "price": "$900",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+        
+    },
+    {
+        "id": 5,
+        "title": "Nature-Inspired Serenity",
+        "image": "../images/Nature-Inspired Serenity.jpg",
+        "description": "A bedroom that harmonizes natural elements with elegance. Organic materials, like a wooden bed frame and soft textiles, create a tranquil retreat perfect for relaxation.",
+        "price": "$1700",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    },
+    {
+        "id": 6,
+        "title": "Luxurious Textures",
+        "image": "../images/Luxurious Textures.webp",
+        "description": "A cozy reading nook adorned with plush pillows and a soft throw. The combination of rich textures and elegant design creates an inviting space for unwinding with a good book.",
+        "price": "$1400",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    }
+    
+]

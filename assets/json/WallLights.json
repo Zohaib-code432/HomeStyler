@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "title": "Accent Illumination",
+        "description": "This sleek living room embodies modern minimalism, featuring clean lines and a neutral color palette that creates a serene atmosphere.",
+        "price": "$1200",
+        "image": "../images/S1389619b89a344adadd95a6a4fe0ed78l.jpg_720x720q80.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Sconce Styles",
+        "description": "Embrace warmth and charm with this cozy rustic retreat, showcasing natural materials and earthy tones that invite relaxation.",
+        "price": "$1400",
+        "image": "../images/IMG_9519-1.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Decorative Designs",
+        "description": "This chic urban loft blends industrial elements with contemporary decor, offering a stylish and vibrant space perfect for city living.",
+        "price": "$1100",
+        "image": "../images/518jD-kF-5L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 4,
+        "title": " Mood Lighting",
+        "description": "Elevate your dining experience in this elegant area, where sophisticated furnishings and ambient lighting create the perfect backdrop for gatherings.",
+        "price": "$1300",
+        "image": "../images/9718aaef-f31c-47b5-be1d-b730393191e0.webp"
+    }
+    
+]

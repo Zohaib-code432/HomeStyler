@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Modern Minimalism",
+       "description": "This sleek kitchen features clean lines and a neutral palette, creating a functional space that emphasizes simplicity and elegance.",
+       "price": "$1300",
+       "image": "../images/kitchen1.jpg",
+       "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    },
+    {
+        "id": 2,
+       "title": "Warm Rustic Charm",
+       "description": "With exposed wood beams and vintage accents, this kitchen blends traditional elements with a cozy, inviting atmosphere, perfect for family gatherings.",
+        "price": "$1200",
+        "image": "../images/Warm Rustic Charm.webp",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    },
+    {
+        "id": 3,
+        "title": "Bright and Airy",
+        "image": "../images/Bright and Airy.jpg",
+        "description": "Large windows and a fresh color scheme fill this kitchen with natural light, enhancing its spacious feel and vibrant ambiance for cooking and entertaining.",
+        "price": "$1500",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    },
+    {
+        "id": 4,
+        "title": "Gourmet Paradise",
+        "image": "../images/Gourmet Paradise.jpeg",
+        "description": "Designed for culinary enthusiasts, this kitchen boasts high-end appliances and ample counter space, making meal prep a delightful experience.",
+        "price": " $1600",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+        
+    },
+    {
+        "id": 5,
+        "title": "Eclectic Style",
+        "image": "../images/Eclectic Style.jpg",
+        "description": "A playful mix of colors and textures defines this kitchen, showcasing unique decor and a lively atmosphere that inspires creativity.",
+        "price": "$1800",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    },
+    {
+        "id": 6,
+        "title": "Classic Elegance",
+        "image": "../images/Classic Elegance.jpg",
+        "description": "Featuring rich cabinetry and timeless fixtures, this kitchen exudes sophistication, making it a perfect blend of beauty and functionality.",
+        "price": "$1300",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    }
+    
+]

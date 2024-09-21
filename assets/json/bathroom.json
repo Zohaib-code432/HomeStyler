@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Spa-Like Oasis",
+        "image": "../images/Spa-Like Oasis.jpeg",
+        "description": "This serene bathroom features calming colors and natural materials, creating a relaxing retreat perfect for unwinding after a long day.",
+        "price": "$2100",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    },
+    {
+        "id": 2,
+        "title": "Sleek Modern Design",
+        "image": "../images/Sleek Modern Design.jpg",
+        "description": "With clean lines and minimalist fixtures, this contemporary bathroom exudes sophistication while maximizing functionality and style.",
+        "price": "$1000",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    },
+    {
+        "id": 3,
+        "title": "Charming Vintage Touch",
+        "image": "../images/Charming Vintage Touch.webp",
+        "description": "This bathroom showcases classic elements, such as a clawfoot tub and retro tiles, combining nostalgia with modern comforts for a timeless feel.",
+        "price": "Price: $1200",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    },
+    {
+        "id": 4,
+        "title": "Bold and Bright",
+        "image": "../images/Bold and Bright.jpeg",
+        "description": "Large windows and light tones fill this bathroom with natural light, enhancing its spaciousness and refreshing atmosphere for daily routines.",
+        "price": "$1500",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+        
+    },
+    {
+        "id": 5,
+        "title": "Bold and Dramati",
+        "image": "../images/Bold and Dramatic.avif",
+        "description": "Featuring dark colors and striking accents, this bathroom creates a statement space that balances elegance with a touch of drama.",
+        "price": "$1300",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    },
+    {
+        "id": 6,
+        "title": "Nature-Inspired Retreat",
+        "image": "../images/Nature-Inspired Retreat...jpg",
+        "description": "Featuring earthy tones and natural materials, this bedroom brings the outdoors in, creating a refreshing and calming environment.",
+        "price": "$1800",
+        "products": ["TV", "Sofa", "Chair", "Table", "Lamp"]
+    }
+    
+]
